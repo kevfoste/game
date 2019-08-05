@@ -3,6 +3,17 @@
 
 > Azure Pipelines badge here
 
+> Team Members 
+
+| Photo                                                  | Name             | Role          |
+|--------------------------------------------------------|------------------|---------------|
+| ![alt](https://octodex.github.com/images/original.png) | Mona The Octocat | GitHub's Logo |
+|                                                        |                  |               |
+|                                                        |                  |               |
+
+----
+
+
 ### running locally
 
 Install the latest [Node.js](http://nodejs.org) 8 Stable
@@ -12,10 +23,3 @@ Install the latest [Node.js](http://nodejs.org) 8 Stable
 `npm start`
 
 Open your web browser to `localhost:3000`
-
-@corydobson
-
-
--
-
-## Add Stuff
