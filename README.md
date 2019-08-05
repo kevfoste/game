@@ -5,11 +5,12 @@
 
 > Team Members 
 
-| Photo                                                  | Name             | Role          |
-|--------------------------------------------------------|------------------|---------------|
-| ![alt](https://octodex.github.com/images/original.png) | Mona The Octocat | GitHub's Logo |
-|                                                        |                  |               |
-|                                                        |                  |               |
+
+| Photo              | Name             | Role          |
+|--------------------|------------------|---------------|
+| ![alt](photo link) | Mona The Octocat | GitHub's Logo |
+|                    |                  |               |
+|                    |                  |               |
 
 ----
 
