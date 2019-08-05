@@ -1,16 +1,14 @@
 # GitHub <> Expedia Innersource Hackathon
 
-> for maximum dramatic effect... listen [to this](https://www.youtube.com/watch?v=KxNGMvNIvP8) while reading this project prompt 💪😎
+> for maximum dramatic effect... listen [to this](https://www.youtube.com/watch?v=KxNGMvNIvP8) while reading this intro 💪😎
 
-Acme Engineering is prepping their biggest launch to date, a [multiplayer snake battle royale experience](https://acme-hackathon.herokuapp.com). You're tasked with taking the coding efforts of just one engineering team, and Innersourcing a fork of the source code for **all of** Acme, and soon, the **entire open source community** to learn from.
+Acme Engineering is prepping their biggest launch to date, a [multiplayer snake battle royale experience](https://acme-hackathon.herokuapp.com). You're tasked with taking the coding efforts of just one engineering team, and Innersourcing a fork of the source code for **all of** Acme, and soon, the **open source community** to learn from.
 
-You and your Hackathon competition have early access to [The Game](https://acme-hackathon.herokuapp.com), the Tenants Of Innersourcing, and ~4 hours to get this thing ready for launch day...
+You and your Hackathon competition have early access to [The Game](https://acme-hackathon.herokuapp.com), the Tenants Of Innersourcing, and ~4 hours to get this thing ready for _launch day_...
 
-This portion is just the Innersourcing fundamentals, but it is the first of four potential projects, taking this jumble of source code to a real Innersourced Repo, with GitHub Pages enabled, CI/CD automation, and even GitHub Apps all running on your own personal GitHub fork of **The Game**.
+This project will cover our Innersourcing fundamentals, and will take this jumble of source code to a real Innersourced Repo, with GitHub Pages enabled, CI/CD automation with Azure Pipelines, GitHub Apps, and even Automated Security fixes...all running on your own personal GitHub fork of **The Game**.
 
-Will you decide to team up with some of your Hackathon competition and finish all four projects? Maybe you're all eyeing the **Collaborator** Awards
-
-Take it solo and lead the charge? The **Marathoner award** is maybe what you're after.
+Prizes will be awarded, and each team will be highlighted for their work on the Innersource 
 
 Maybe you're really interested in just getting the highest score on The Game right now... if that's the case you might be up for bragging rights with **The Player One** award.
 
