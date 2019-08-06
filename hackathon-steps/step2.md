@@ -25,6 +25,3 @@ Once your page is published, feel free to pick a new theme, and or customize it 
 
 ## Technologies used
 GitHub.com -- for this specific project, you _should_ be able to do everything you need without ever touching an IDE or the terminal.
-
-## Prize Categories and Tiers
-See #1 for details cc/ @pravipati 
