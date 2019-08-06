@@ -1,6 +1,4 @@
-## Prompt Title
-
-Workflow, Automation via Probot
+## Project 4: Workflow, Automation via Probot 
 
 ## Prompt Description
 
