@@ -16,6 +16,3 @@ It's all up to you! The Best Innersourcing Fundamentals will win a prize as well
 
 ## Technologies used
 - GitHub.com -- for this specific project, you _should_ be able to do everything you need without ever touching an IDE or the terminal.
-
-## Prize Categories and Tiers
-See #1 for details cc/ @pravipati 
