@@ -1,6 +1,5 @@
-## Prompt Title
+## Project 3: Workflow, Adding CI to the Game
 
-Workflow, Adding CI to the Game
 
 ## Prompt Description
 
