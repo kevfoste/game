@@ -8,6 +8,8 @@ We can leverage GitHub Security Vulnerability Alerts for this + Dependabot, to k
 What can you do to make sure these are covered?
 - [ ] Configuring [Security Vulnerability Alerts](https://help.github.com/en/articles/viewing-and-updating-vulnerable-dependencies-in-your-repository)
 - [ ] [Enabling Dependabot](https://help.github.com/en/articles/configuring-automated-security-fixes)
+- [ ] Setting up a [Security Policy](https://help.github.com/en/articles/adding-a-security-policy-to-your-repository)
+- [ ] Build a [Support Policy](https://help.github.com/en/articles/adding-support-resources-to-your-project)
 
 After these two pieces of infra are turned on... Dependabot will generate automatic pull requests and we'll be ready to roll! 
 
