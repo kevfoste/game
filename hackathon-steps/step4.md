@@ -99,7 +99,3 @@ You have an app! Congratulations. You have begun to automate your workflows. We 
 - JS
 - GitHub Apps
 - Probot
-
-## Judging Criteria
-
-See issue #1 . Once you have completed the prompt ☝️you can try and extend your probot app.
