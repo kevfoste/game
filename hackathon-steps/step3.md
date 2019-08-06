@@ -24,7 +24,3 @@ One of the key benefits of using a modern version control platform is the abilit
 
 - Azure Pipelines
 - GitHub branches
-
-## Judging Criteria
-
-See issue #1 . As a stretch goal: what are some additional ways you can add visibility to your CI/CD process?
