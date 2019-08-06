@@ -8,8 +8,6 @@ You and your Hackathon competition have early access to [The Game](https://acme-
 
 This project will cover our Innersourcing fundamentals, and will take this jumble of source code to a real Innersourced Repo, with GitHub Pages enabled, CI/CD automation with Azure Pipelines, GitHub Apps, and even Automated Security fixes...all running on your own personal GitHub fork of **The Game**.
 
-Prizes will be awarded, and each team will be highlighted for their work on the Innersource 
-
-Maybe you're really interested in just getting the highest score on The Game right now... if that's the case you might be up for bragging rights with **The Player One** award.
+Prizes will be awarded, and each team will be highlighted for their work!
 
  .. oh, we forgot to mention, you're also staffed with the naming of this thing. Prizes for the best Game Name 😉
