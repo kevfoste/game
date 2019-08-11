@@ -41,7 +41,7 @@ Probot docs, in case we ever get lost: https://probot.github.io/docs/
 
 - Did the app respond? Yay! Otherwise, let's troubleshoot!
 
-### Part 4: Adding a twist on our App
+### Part 2: Adding a twist on our App
 
 Now, let's change our code up. Instead of replying to new issues, let's triage them. The goal is to build an app that will look at incoming issues, and classify them as "bug reports", "feature requests", or "questions" automatically for us! Let's use some fun NLP for that.
 
@@ -78,7 +78,7 @@ https://git.io/fbpdc
 > question:
 > Can you help me?
 
-### Part 5: You're Finished! 
+### Part 3: You're Finished! 
 
 You have an app! Congratulations. You have begun to automate your workflows. We hope you're feeling inspired! Keep moving with it, and see how you can extend it to do other interesting things!
 
