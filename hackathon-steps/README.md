@@ -11,3 +11,7 @@ This project will cover our Innersourcing fundamentals, and will take this jumbl
 Prizes will be awarded, and each team will be highlighted for their work!
 
  .. oh, we forgot to mention, you're also staffed with the naming of this thing. Prizes for the best Game Name 😉
+
+---
+
+##### Now fork this repo above, and let's get started! 
