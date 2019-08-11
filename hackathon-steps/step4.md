@@ -17,7 +17,7 @@ Probot docs, in case we ever get lost: https://probot.github.io/docs/
 
 ### Part 1: Getting Started
 
-Step 1: Create and register our app
+#### Step 1: Create and register our app
 
 - Remix on Glitch: https://bit.ly/remix-probot
 -  Provides instructions in-app, how nice!
@@ -27,21 +27,21 @@ Step 1: Create and register our app
 
 - Create a sandbox repo to play in
 
-Follow instructions in Probot readme
+- Follow instructions in Probot readme
 
-Don't forget to upload an avatar, or it uses yours and it might be confusing.
+- Don't forget to upload an avatar, or it uses yours and it might be confusing.
 
-Step 2: Finish configuring the app
+#### Step 2: Finish configuring the app
 
-set up `ENV` variables, following the instructions
+- Set up `ENV` variables in your Glitch Remix, following the instructions
 
-Step 3: Test our app
+#### Step 3: Test our app
 
-Create a new issue!
+- Create a new issue!
 
-Did the app respond? Yay! Otherwise, let's troubleshoot!
+- Did the app respond? Yay! Otherwise, let's troubleshoot!
 
-### Part 2: Let's add a twist
+### Part 4: Adding a twist on our App
 
 Now, let's change our code up. Instead of replying to new issues, let's triage them. The goal is to build an app that will look at incoming issues, and classify them as "bug reports", "feature requests", or "questions" automatically for us! Let's use some fun NLP for that.
 
@@ -52,34 +52,33 @@ What we will need to do is this:
 3) Determine whether the title is a command, a request, or a question
 4) Add labels to the issue depending on on how we classified the text
 
-Hit https://recast.ai/ and sign in with GH
+- Hit https://recast.ai/ and sign in with GH
 
-Create a new project on the website. Walk through the demo interface to show what the API does for us. Examine the sample JSON responses
+- Create a new project on the website. Walk through the demo interface to show what the API does for us. Examine the sample JSON responses
 
-Get the token from the project. This can be tricky to find.
+- Get the token from the project. This can be tricky to find.
 
-Add token to the .env file under `RECASTAI_TOKEN`
+- Add token to the .env file under `RECASTAI_TOKEN`
 
-Add recastai module
-manually if needed: "recastai": "^3.7.0"
-Don't confuse it with the "recast" module!
+> Add recastai module manually in the package.json in Glitch Remix if needed: "recastai": "^3.7.0"
+> Don't confuse it with the "recast" module!
 
-Now, we need to make some API calls: Walk through each step at
+- Now, we need to make some API calls: Walk through each step at
 https://git.io/fbpdc
 
 
-Finally, test it! Open some sample issues in the sandbox repo, and watch how the app tags each of them. It's not perfect, but it should serve as an inspiration to go further!
+- Finally, test it! Open some sample issues in the sandbox repo, and watch how the app tags each of them. It's not perfect, but it should serve as an inspiration to go further!
 
-enhancement:
-Add support for Windows Phone
+> enhancement:
+> Add support for Windows Phone
 
-bug:
-This thing is broken
+> bug:
+> This thing is broken
 
-question:
-Can you help me?
+> question:
+> Can you help me?
 
-### Part 3: Finished
+### Part 5: You're Finished! 
 
 You have an app! Congratulations. You have begun to automate your workflows. We hope you're feeling inspired! Keep moving with it, and see how you can extend it to do other interesting things!
 
