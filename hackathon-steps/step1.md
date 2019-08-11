@@ -5,6 +5,7 @@ You just started in your new role at Acme Engineering, and with their last wave 
 
 What can you build that will help its success?
 - [ ] A proper [README.md file](https://help.github.com/en/articles/about-readmes)?
+- [ ] How about a great game name and background story?
 - [ ] [Contributing Files](https://help.github.com/en/articles/setting-guidelines-for-repository-contributors)?
 - [ ] [Issue Templates](https://help.github.com/en/articles/about-issue-and-pull-request-templates)?  
 - [ ] Topics? Description? or well... Anything else? 😁
