@@ -1,4 +1,4 @@
-# GitHub <> Expedia Innersource Hackathon
+# GitHub <> Cisco 🌉 Innersource Hackathon
 
 > for maximum dramatic effect... listen [to this](https://www.youtube.com/watch?v=KxNGMvNIvP8) while reading this intro 💪😎
 
