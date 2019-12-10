@@ -71,7 +71,7 @@ describe('CoordinateService', () => {
                                 new Coordinate(1, 1)];
         assert.deepEqual(player.getSegments(), expectedSegments, 'Player did not move right and grow as expected');
 
-        player.changeDirection(Direction.UP);
+        player.changeDirection(Direction.DOWN);
         CoordinateService.movePlayer(player);
         expectedSegments = [new Coordinate(6, 2),
                             new Coordinate(6, 1),
